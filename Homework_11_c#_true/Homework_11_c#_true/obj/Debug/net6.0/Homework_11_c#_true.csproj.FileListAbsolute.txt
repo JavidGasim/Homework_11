@@ -1,0 +1,14 @@
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\bin\Debug\net6.0\Homework_11_c#_true.exe
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\bin\Debug\net6.0\Homework_11_c#_true.deps.json
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\bin\Debug\net6.0\Homework_11_c#_true.runtimeconfig.json
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\bin\Debug\net6.0\Homework_11_c#_true.dll
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\bin\Debug\net6.0\Homework_11_c#_true.pdb
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\obj\Debug\net6.0\Homework_11_c#_true.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\obj\Debug\net6.0\Homework_11_c#_true.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\obj\Debug\net6.0\Homework_11_c#_true.AssemblyInfo.cs
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\obj\Debug\net6.0\Homework_11_c#_true.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\obj\Debug\net6.0\Homework_11_c#_true.dll
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\obj\Debug\net6.0\refint\Homework_11_c#_true.dll
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\obj\Debug\net6.0\Homework_11_c#_true.pdb
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\obj\Debug\net6.0\Homework_11_c#_true.genruntimeconfig.cache
+C:\Users\gasim\source\repos\Homework_11_c#_true\Homework_11_c#_true\obj\Debug\net6.0\ref\Homework_11_c#_true.dll
